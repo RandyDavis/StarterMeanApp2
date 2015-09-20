@@ -34,3 +34,12 @@
   min-height: 150px;
   max-height: 150px;
 }
+
+.login-form-bg {
+  background-color: white;
+  border: 15px solid white;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  margin-top: 50px;
+}
